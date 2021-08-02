@@ -6,5 +6,5 @@ Files from the Moola Market team originally in sourcify https://repo.sourcify.de
 
 ## Reference Links:
 
-* https://moola.market/ - Moola Market websit
+* https://moola.market/ - Moola Market website
 * https://github.com/moolamarket/moola - Moola Protocol Contracts source code
